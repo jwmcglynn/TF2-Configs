@@ -3,3 +3,5 @@ config.cfg
 config_arena.cfg
 server_blacklist.txt
 gsoldier.cfg
+cdash*
+classdash.cfg
