@@ -5,3 +5,5 @@ server_blacklist.txt
 gsoldier.cfg
 cdash*
 classdash.cfg
+
+/motd_entries.txt
